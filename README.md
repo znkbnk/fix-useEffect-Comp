@@ -30,6 +30,9 @@ hook to track the count update.
 Mistake 6: Add missing dependency
 in the second useEffect hook.
 
-Mistake 7: Capitalize the component
+Mistake 7: Correctly update the
+count in the button's onClick handler.
+
+Mistake 8: Capitalize the component
 name to follow React component naming
 conventions in the export statement.
